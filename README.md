@@ -4,7 +4,7 @@ Aspiring SWE <br/>
 Comp Sci Major at SNHU<br/>
 Creating whatever seems fun<br/>
 Currently working on a personal AI<br/>
-Known professionally / online as Nyra <br/>
+Known professionally as Nyra/Nyraatic online<br/>
 ### not a resume but a progress journal for now. 
 
 # 💻 Tech Stack:
